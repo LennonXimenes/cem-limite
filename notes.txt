@@ -1,0 +1,2 @@
+para criar a aplicação:
+npm create vite@latest cem-limite -- -- template react
