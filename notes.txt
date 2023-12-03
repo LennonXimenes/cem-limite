@@ -1,2 +1,6 @@
 para criar a aplicação:
 npm create vite@latest cem-limite -- -- template react
+
+logo, precisa instalar:
+npm i
+
