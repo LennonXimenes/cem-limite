@@ -1,4 +1,4 @@
-export const CreatureList = () => {
+export const CharacterList = () => {
     return (
         <ul>
             <h1>teste</h1>

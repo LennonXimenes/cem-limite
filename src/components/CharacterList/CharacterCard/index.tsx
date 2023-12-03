@@ -1,4 +1,4 @@
-export const CreatureCard = () => {
+export const CharacterCard = () => {
     return(
         <li>
             <h1>teste</h1>
